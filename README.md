@@ -11,4 +11,5 @@ Discord: **`sh3llm4g1ck#7633`**
 
 ## :heart: Support Me
 If you like my work and want to support me, you can donate a small amount by clicking the button below.
+
 [![](https://img.shields.io/badge/-buymeacoffee-000000?style=for-the-badge&logo=Buy%20Me%20A%20Coffee)](https://buymeacoffee.com/sh3llm4g1ck)
