@@ -3,7 +3,7 @@
 ## :space_invader: About Me
 CTF Addict | Linux Enthusiast<br>My blog for CTF writeups: https://sh3llm4g1ck.github.io/
 
-## :triangular_flag_on_post: CTF Sites Project
+## :black_flag: CTF Sites Project
 I developed the CTF Sites project which is the biggest collection of CTF sites, contains only permanent CTFs.<br>Site: https://ctfsites.github.io/
 
 ## :zap: Contact Me
