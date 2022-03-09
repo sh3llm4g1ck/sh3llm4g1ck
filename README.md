@@ -1,4 +1,4 @@
-![](https://i.imgur.com/2g41zyl.png)
+![](https://i.imgur.com/VHMThxm.png)
 
 ## :space_invader: About Me
 CTF Addict | Linux Enthusiast<br>My blog for CTF writeups: https://sh3llm4g1ck.github.io/
