@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/Y7VB338.png)
 
-## About Me
+## :space_invader: About Me
 CTF Addict | Linux Enthusiast<br>My blog for CTF writeups: https://sh3llm4g1ck.github.io/
 
 ## CTF Sites Project
