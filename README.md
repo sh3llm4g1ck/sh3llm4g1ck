@@ -4,7 +4,7 @@
 CTF Addict | Linux Enthusiast
 
 ## Contact Me
-`Discord: sh3llm4g1ck#7633`
+### `Discord: sh3llm4g1ck#7633`
 
 ## Support Me
 If you like my work and want to support me, you can donate a small amount by clicking the button below.
