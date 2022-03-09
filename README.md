@@ -6,7 +6,7 @@ CTF Addict | Linux Enthusiast<br>My blog for CTF writeups: https://sh3llm4g1ck.g
 ## :triangular_flag_on_post: CTF Sites Project
 I developed the CTF Sites project which is the biggest collection of CTF sites, contains only permanent CTFs.<br>Site: https://ctfsites.github.io
 
-## Contact Me
+## :zap: Contact Me
 Discord: **`sh3llm4g1ck#7633`**
 
 ## :heart: Support Me
